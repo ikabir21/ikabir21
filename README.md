@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Ichan Kabir. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align = "center">2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night.
+<p>I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night. 
 </p>
 <!--
 **ikabir21/ikabir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
