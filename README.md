@@ -1,4 +1,5 @@
 <h2 align="center">Hello there! My name is Ichan Kabir. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
 I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night.
 
 I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning `machine learning` and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, scikit-learn.
