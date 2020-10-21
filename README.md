@@ -15,12 +15,14 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - Web Developrment
     - HTML5
     - CSS3, Bootsrap
+    - Javascript
     - Django (A little bit, still learning)
 - Utilities
     - Git, Github
     - cmd
     - Linux (A little bit, still learning)
     - Adobe Lightroom
+    - Ethical Hacking (Learning...)
 ## 📫 Social Media
 - [Facebook](https://https://www.facebook.com/ikabir21/) 😏
 - [Twitter](https://twitter.com/ikabir_21/) 🐤
