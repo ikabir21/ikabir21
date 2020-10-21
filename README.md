@@ -3,7 +3,7 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
   
 I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning 'machine learning' and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, scikit-learn.
 
-Besides these I'm fond of playing online games and watching movies.
+Besides these I'm fond of playing online games, natural photography and movies.
 
 
 
