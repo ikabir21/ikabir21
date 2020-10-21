@@ -2,11 +2,32 @@
 
 I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night.
 
-I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning `machine learning` and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, scikit-learn.
+I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning `machine learning` and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, seaborn, scikit-learn.
 
 Besides these I'm fond of playing online games, natural photography and movies.
 
-
+## 🎉Skills🎉
+- Machine Learning with Python3
+- Programming
+    - C, Java (Data Strcutures and Problem Solving)
+    - Python3 (Machine Learning)
+- Web Developrment
+    - HTML5
+    - CSS3, Bootsrap
+    - Django (A little bit)
+- Utilities
+    - Git, Github
+    - cmd
+    - Linux (A little bit)
+    - Adobe Lightroom
+## 📫 Social Media
+- [Facebook](https://https://www.facebook.com/ikabir21/) 😏
+- [Twitter](https://twitter.com/ikabir_21/) 🐤
+- [Instagram](https://www.instagram.com/i.k.a.b.i.r/) 😎
+- [LinkedIn](https://www.linkedin.com/in/ikabir/) 👨💼
+<!-- [Website](https://stephenajulu.com) 😏🔗 -->
+<!-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻 -->
+- [Portfolio(Available soon...)](#) 🔗🔗
 
 <!--
 **ikabir21/ikabir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
