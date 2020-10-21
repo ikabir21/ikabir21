@@ -14,11 +14,11 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - Web Developrment
     - HTML5
     - CSS3, Bootsrap
-    - Django (A little bit)
+    - Django (A little bit, still learning)
 - Utilities
     - Git, Github
     - cmd
-    - Linux (A little bit)
+    - Linux (A little bit, still learning)
     - Adobe Lightroom
 ## 📫 Social Media
 - [Facebook](https://https://www.facebook.com/ikabir21/) 😏
