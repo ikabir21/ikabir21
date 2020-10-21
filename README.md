@@ -25,9 +25,9 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - [Twitter](https://twitter.com/ikabir_21/) 🐤
 - [Instagram](https://www.instagram.com/i.k.a.b.i.r/) 😎
 - [LinkedIn](https://www.linkedin.com/in/ikabir/) 👨💼
+- [Portfolio(Available soon...)](#) 🔗🔗
 <!-- [Website](https://stephenajulu.com) 😏🔗 -->
 <!-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻 -->
-- [Portfolio(Available soon...)](#) 🔗🔗
 
 <!--
 **ikabir21/ikabir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
