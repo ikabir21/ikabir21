@@ -38,7 +38,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - [Facebook](https://https://www.facebook.com/ikabir21/) 😏
 - [Twitter](https://twitter.com/ikabir_21/) 🐤
 - [Instagram](https://www.instagram.com/i.k.a.b.i.r/) 😎
-- [LinkedIn](https://www.linkedin.com/in/ikabir/) 👨💼
+- [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/ikabir/) 👨💼
 - [Portfolio(Available soon...)](#) 🔗🔗
 <!-- [Website](https://stephenajulu.com) 😏🔗 -->
 <!-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻 -->
