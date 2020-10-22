@@ -5,9 +5,11 @@
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-</div> -->
+</div>
 
 <div align="center">
+    
+-->
 
 I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night. I also love to solve  problems on [Hackerrank](https://hackerrank.com/ikabir/) and [Codechef](https://www.codechef.com/users/mrwizard/).
 
