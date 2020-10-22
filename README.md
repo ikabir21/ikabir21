@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 ## Github Stats
 <!-- ![Kabir's Github Stats](https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=radical) -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikabir21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
