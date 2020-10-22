@@ -26,7 +26,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - Web Developrment
     - HTML5
     - CSS3, Bootsrap
-    - Javascript
+    - <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;>
     - Django (A little bit, still learning)
 - Utilities
     - Git, Github
