@@ -1,5 +1,13 @@
 <h2 align="center">Hello there! My name is Ichan Kabir. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
 I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night. I also love to solve  problems on [Hackerrank](https://hackerrank.com/ikabir/) and [Codechef](https://www.codechef.com/users/mrwizard/).
 
 
