@@ -31,8 +31,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
     
     - Django (A little bit, still learning)
 - Utilities
-    - Git, Github <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+    - Git, Github <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">, <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
     - cmd
     - Linux (A little bit, still learning)
     - Adobe Lightroom
