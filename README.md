@@ -25,7 +25,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)(Machine Learning)
 - Web Developrment
     - HTML5  <!-- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp; -->
-    - CSS3, Bootsrap  <!-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; -->, <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height = "20">
+    - CSS3, Bootsrap  <!-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; -->,  <!--  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height = "20"> -->
     - Javascript  <!-- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp; -->
     - Django (A little bit, still learning)  <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> -->
 - Utilities
