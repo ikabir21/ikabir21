@@ -30,7 +30,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - Django (A little bit, still learning)  <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> -->
 - Utilities
     - Git, Github <!-- <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">, <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski"> -->
-    - cmd
+    - cmd  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">
     - Linux (A little bit, still learning)
     - Adobe Lightroom
     - Ethical Hacking (Learning...)
