@@ -17,11 +17,12 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
 I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning `machine learning` and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, seaborn, scikit-learn.
 
 Besides these I'm fond of playing online games, natural photography and movies.
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)], [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)] (Data Strcutures and Problem Solving)
 
 ## 🎉Skills🎉
 - Machine Learning with Python3
 - Programming
-    - C, [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+    - [![C](https://img.shields.io/badge/-C-fff?&logo=C)], [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)] (Data Strcutures and Problem Solving)
     - [![Python(Machine Learning)](https://img.shields.io/badge/-Python-fff?&logo=python)]
 - Web Developrment
     - HTML5
