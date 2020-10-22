@@ -35,8 +35,8 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - Adobe Lightroom
     - Ethical Hacking (Learning...)
 ## 📫 Social Media
-- <a href="#">Portfolio(Available soon...)🔗🔗</a>
-- <a href="#">Blog(Available soon...)🤓💻</a>
+- <a href="#">Portfolio(Available soon...)</a>🔗🔗
+- <a href="#">Blog(Available soon...)</a>🤓💻
 <p align="center">
 	<a href="https://www.linkedin.com/in/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
