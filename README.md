@@ -31,11 +31,11 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - Utilities
     - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
     - cmd  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">
-    - Linux (A little bit, still learning)
+    - ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000) (A little bit, still learning)
     - Adobe Lightroom
     - Ethical Hacking (Learning...)
 ## 📫 Social Media
-- <a href="https://www.ichankabir.ml/">Portfolio</a>🔗🔗
+- <a href="https://www.ichankabir.ml/">[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)]</a>🔗🔗
 - <a href="#">Blog(Available soon...)</a>🤓💻
 <p align="center">
 	<a href="https://www.linkedin.com/in/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
