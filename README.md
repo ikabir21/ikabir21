@@ -22,7 +22,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
 - Machine Learning with Python3
 - Programming
     - C, Java (Data Strcutures and Problem Solving)
-    - Python3 (Machine Learning)
+    - [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)] (Machine Learning)
 - Web Developrment
     - HTML5
     - CSS3, Bootsrap
