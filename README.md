@@ -35,15 +35,16 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - Adobe Lightroom
     - Ethical Hacking (Learning...)
 ## 📫 Social Media
+    
 <p align="center">
-[<img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>](https://https://www.facebook.com/ikabir21/) 😏
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/>](https://twitter.com/ikabir_21/) 🐤
-[<img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>](https://www.instagram.com/i.k.a.b.i.r/) 😎
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/ikabir/) 👨💼
+	<a href="https://www.linkedin.com/in/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/i.k.a.b.i.r/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/ikabir_21"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 [Portfolio(Available soon...)](#) 🔗🔗
 <!-- [Website](https://stephenajulu.com) 😏🔗 -->
 <!-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻 -->
-</p>
 
 <!--
 **ikabir21/ikabir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
