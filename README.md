@@ -27,7 +27,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - HTML5  <!-- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp; -->
     - CSS3, Bootsrap  <!-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; -->
     - Javascript  <!-- <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp; -->
-    - Django (A little bit, still learning)
+    - Django (A little bit, still learning) <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 - Utilities
     - Git, Github <!-- <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">, <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski"> -->
     - cmd
