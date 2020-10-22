@@ -21,7 +21,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
 ## 🎉Skills🎉
 - Machine Learning with Python3
 - Programming
-    - C, [![Java(Data Strcutures and Problem Solving)](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+    - C, [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
     - [![Python(Machine Learning)](https://img.shields.io/badge/-Python-fff?&logo=python)]
 - Web Developrment
     - HTML5
