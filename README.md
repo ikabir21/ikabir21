@@ -20,7 +20,7 @@ Besides these I'm fond of playing online games, natural photography and movies.
 
 ## 🎉Skills🎉
 - Machine Learning with Python3
-- Game Developement (unity)
+- Game Development (unity)
 - Programming
     - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp; (Data Strcutures and Problem Solving)
     - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;(Machine Learning)
