@@ -26,18 +26,20 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;(Machine Learning)
 - Web Development
     - ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-    - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-    - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-    - <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>(A little bit, still learning)
+    - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+    - ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react&logoColor=A8B9CC)&nbsp;
+    - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![jQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery&logoColor=A8B9CC)&nbsp;
+    - ![node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js&logoColor=A8B9CC) ![express](https://img.shields.io/badge/-express-333333?style=flat&logo=express&logoColor=A8B9CC)
+    - ![django](https://img.shields.io/badge/-django-333333?style=flat&logo=django&logoColor=A8B9CC)
 - Utilities
     - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
     - cmd  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">
-    - ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000) (A little bit, still learning)
+    - ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
     - Adobe Lightroom
     - Ethical Hacking (Learning...)
 ## 📫 Social Media
 - [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://www.ichankabir.ml)🔗🔗
-- <a href="#">Blog(Available soon...)</a>🤓💻
+<!-- - <a href="#">Blog(Available soon...)</a>🤓💻 -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/ikabir21/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
@@ -62,4 +64,3 @@ Here are some ideas to get you started:
 ## Github Stats
 <!-- ![Kabir's Github Stats](https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=radical) -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikabir21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
