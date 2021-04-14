@@ -11,19 +11,13 @@
     
 -->
 
-I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things and have the ability to work whole night. I also love to solve  problems on [Hackerrank](https://hackerrank.com/ikabir/) and [Codechef](https://www.codechef.com/users/mrwizard/).
+I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things. I also love to solve  problems on [Hackerrank](https://hackerrank.com/ikabir/) and [Codechef](https://www.codechef.com/users/mrwizard/).
 
-
-I have a keen  interest in the field of machine learning and artificial intelligent. 🌱I'm, currently learning `machine learning` and have made two simple projects-- Linear regression and Logistic regression. In these projects I have used popular machine learning libraries such as numpy, pandas, matplotlib, seaborn, scikit-learn.
-
-Besides these I'm fond of playing online games, natural photography and movies.
 
 ## 🎉Skills🎉
-- Machine Learning with Python3
-- Game Development (unity)
 - Programming
     - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp; (Data Strcutures and Problem Solving)
-    - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;(Machine Learning)
+    <!-- - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;(Machine Learning) -->
 - Web Development
     - ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
     - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -36,9 +30,9 @@ Besides these I'm fond of playing online games, natural photography and movies.
     - cmd  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">
     - ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
     - Adobe Lightroom
-    - Ethical Hacking (Learning...)
+    <!-- - Ethical Hacking (Learning...) -->
 ## 📫 Social Media
-- [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://www.ichankabir.ml)🔗🔗
+- [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://www.ichankabir.ml)
 <!-- - <a href="#">Blog(Available soon...)</a>🤓💻 -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/ikabir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -61,6 +55,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=radical)
 ## Github Stats
 <!-- ![Kabir's Github Stats](https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=radical) -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikabir21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
