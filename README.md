@@ -25,6 +25,8 @@ I'm a 2nd year undergraduate at National Institute of Technology, Silchar. I lov
     - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![jQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery&logoColor=A8B9CC)&nbsp;
     - ![node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js&logoColor=A8B9CC) ![express](https://img.shields.io/badge/-express-333333?style=flat&logo=express&logoColor=A8B9CC)
     - ![django](https://img.shields.io/badge/-django-333333?style=flat&logo=django&logoColor=A8B9CC)
+    - mongoDB
+    - mongoose
 - Utilities
     - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
     - cmd  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="20">
