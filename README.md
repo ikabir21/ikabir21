@@ -62,3 +62,19 @@ Here are some ideas to get you started:
 ## Github Stats
 <!-- ![Kabir's Github Stats](https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=radical) -->
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikabir21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ikabir21&theme=react&border=61dafb&hide_border=true" alt="ikabir" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ikabir21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikabir21&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ikabir21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+</p>
