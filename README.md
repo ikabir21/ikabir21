@@ -1,5 +1,9 @@
 <h2 align="center">Hello there! My name is Ichan Kabir. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
+<!-- <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikabir21"/>
+</div> -->
+
 ## Who Am I ?
 
 I'm a 3rd year undergraduate at National Institute of Technology, Silchar. I love to explore and learn new things.
