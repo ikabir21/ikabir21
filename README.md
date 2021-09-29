@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning deep learning
-- 📫 How to reach me: [LinkedIn](!https://www.linkedin.com/in/ikabir)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ikabir)
 - 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
